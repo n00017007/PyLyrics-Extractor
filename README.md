@@ -26,6 +26,7 @@ pip install lyrics-extractor
     * http://www.lyricsbell.com/
     * https://www.glamsham.com/
     * http://www.lyricsoff.com/
+     * http://www.lyricsraag.com/
     * http://www.lyricsmint.com/
   * You are free to customise your Custom Search Engine by prioritising any of your preferred keywords, excluding any web pages or turning on the 'Safe Search' feature.
 
